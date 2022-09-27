@@ -35,3 +35,40 @@ C:\Users\ABRASEL NACIONAL\Desktop\Microserviços\Microservices-.net6\MicroShop\M
 C:\Users\ABRASEL NACIONAL\Desktop\Microserviços\Microservices-.net6\MicroShop\Microshop.productapi\bin\Debug\net6.0\MySqlConnector.dll
 C:\Users\ABRASEL NACIONAL\Desktop\Microserviços\Microservices-.net6\MicroShop\Microshop.productapi\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
 C:\Users\ABRASEL NACIONAL\Desktop\Microserviços\Microservices-.net6\MicroShop\Microshop.productapi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Annotations.dll
+C:\Users\ABRASEL NACIONAL\Desktop\Microserviços\Microservices-.net6 - arquitetura\MicroShop\Microshop.productapi\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\ABRASEL NACIONAL\Desktop\Microserviços\Microservices-.net6 - arquitetura\MicroShop\Microshop.productapi\bin\Debug\net6.0\appsettings.json
+C:\Users\ABRASEL NACIONAL\Desktop\Microserviços\Microservices-.net6 - arquitetura\MicroShop\Microshop.productapi\bin\Debug\net6.0\Microshop.productapi.exe
+C:\Users\ABRASEL NACIONAL\Desktop\Microserviços\Microservices-.net6 - arquitetura\MicroShop\Microshop.productapi\bin\Debug\net6.0\Microshop.productapi.deps.json
+C:\Users\ABRASEL NACIONAL\Desktop\Microserviços\Microservices-.net6 - arquitetura\MicroShop\Microshop.productapi\bin\Debug\net6.0\Microshop.productapi.runtimeconfig.json
+C:\Users\ABRASEL NACIONAL\Desktop\Microserviços\Microservices-.net6 - arquitetura\MicroShop\Microshop.productapi\bin\Debug\net6.0\Microshop.productapi.dll
+C:\Users\ABRASEL NACIONAL\Desktop\Microserviços\Microservices-.net6 - arquitetura\MicroShop\Microshop.productapi\bin\Debug\net6.0\Microshop.productapi.pdb
+C:\Users\ABRASEL NACIONAL\Desktop\Microserviços\Microservices-.net6 - arquitetura\MicroShop\Microshop.productapi\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\ABRASEL NACIONAL\Desktop\Microserviços\Microservices-.net6 - arquitetura\MicroShop\Microshop.productapi\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\ABRASEL NACIONAL\Desktop\Microserviços\Microservices-.net6 - arquitetura\MicroShop\Microshop.productapi\bin\Debug\net6.0\Humanizer.dll
+C:\Users\ABRASEL NACIONAL\Desktop\Microserviços\Microservices-.net6 - arquitetura\MicroShop\Microshop.productapi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\ABRASEL NACIONAL\Desktop\Microserviços\Microservices-.net6 - arquitetura\MicroShop\Microshop.productapi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ABRASEL NACIONAL\Desktop\Microserviços\Microservices-.net6 - arquitetura\MicroShop\Microshop.productapi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\ABRASEL NACIONAL\Desktop\Microserviços\Microservices-.net6 - arquitetura\MicroShop\Microshop.productapi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ABRASEL NACIONAL\Desktop\Microserviços\Microservices-.net6 - arquitetura\MicroShop\Microshop.productapi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\ABRASEL NACIONAL\Desktop\Microserviços\Microservices-.net6 - arquitetura\MicroShop\Microshop.productapi\bin\Debug\net6.0\MySqlConnector.dll
+C:\Users\ABRASEL NACIONAL\Desktop\Microserviços\Microservices-.net6 - arquitetura\MicroShop\Microshop.productapi\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\ABRASEL NACIONAL\Desktop\Microserviços\Microservices-.net6 - arquitetura\MicroShop\Microshop.productapi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Annotations.dll
+C:\Users\ABRASEL NACIONAL\Desktop\Microserviços\Microservices-.net6 - arquitetura\MicroShop\Microshop.productapi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\ABRASEL NACIONAL\Desktop\Microserviços\Microservices-.net6 - arquitetura\MicroShop\Microshop.productapi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\ABRASEL NACIONAL\Desktop\Microserviços\Microservices-.net6 - arquitetura\MicroShop\Microshop.productapi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\ABRASEL NACIONAL\Desktop\Microserviços\Microservices-.net6 - arquitetura\MicroShop\Microshop.productapi\obj\Debug\net6.0\Microshop.productapi.csproj.AssemblyReference.cache
+C:\Users\ABRASEL NACIONAL\Desktop\Microserviços\Microservices-.net6 - arquitetura\MicroShop\Microshop.productapi\obj\Debug\net6.0\Microshop.productapi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ABRASEL NACIONAL\Desktop\Microserviços\Microservices-.net6 - arquitetura\MicroShop\Microshop.productapi\obj\Debug\net6.0\Microshop.productapi.AssemblyInfoInputs.cache
+C:\Users\ABRASEL NACIONAL\Desktop\Microserviços\Microservices-.net6 - arquitetura\MicroShop\Microshop.productapi\obj\Debug\net6.0\Microshop.productapi.AssemblyInfo.cs
+C:\Users\ABRASEL NACIONAL\Desktop\Microserviços\Microservices-.net6 - arquitetura\MicroShop\Microshop.productapi\obj\Debug\net6.0\Microshop.productapi.csproj.CoreCompileInputs.cache
+C:\Users\ABRASEL NACIONAL\Desktop\Microserviços\Microservices-.net6 - arquitetura\MicroShop\Microshop.productapi\obj\Debug\net6.0\Microshop.productapi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ABRASEL NACIONAL\Desktop\Microserviços\Microservices-.net6 - arquitetura\MicroShop\Microshop.productapi\obj\Debug\net6.0\Microshop.productapi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ABRASEL NACIONAL\Desktop\Microserviços\Microservices-.net6 - arquitetura\MicroShop\Microshop.productapi\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\ABRASEL NACIONAL\Desktop\Microserviços\Microservices-.net6 - arquitetura\MicroShop\Microshop.productapi\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\ABRASEL NACIONAL\Desktop\Microserviços\Microservices-.net6 - arquitetura\MicroShop\Microshop.productapi\obj\Debug\net6.0\scopedcss\bundle\Microshop.productapi.styles.css
+C:\Users\ABRASEL NACIONAL\Desktop\Microserviços\Microservices-.net6 - arquitetura\MicroShop\Microshop.productapi\obj\Debug\net6.0\Microshop.productapi.csproj.CopyComplete
+C:\Users\ABRASEL NACIONAL\Desktop\Microserviços\Microservices-.net6 - arquitetura\MicroShop\Microshop.productapi\obj\Debug\net6.0\Microshop.productapi.dll
+C:\Users\ABRASEL NACIONAL\Desktop\Microserviços\Microservices-.net6 - arquitetura\MicroShop\Microshop.productapi\obj\Debug\net6.0\refint\Microshop.productapi.dll
+C:\Users\ABRASEL NACIONAL\Desktop\Microserviços\Microservices-.net6 - arquitetura\MicroShop\Microshop.productapi\obj\Debug\net6.0\Microshop.productapi.pdb
+C:\Users\ABRASEL NACIONAL\Desktop\Microserviços\Microservices-.net6 - arquitetura\MicroShop\Microshop.productapi\obj\Debug\net6.0\Microshop.productapi.genruntimeconfig.cache
+C:\Users\ABRASEL NACIONAL\Desktop\Microserviços\Microservices-.net6 - arquitetura\MicroShop\Microshop.productapi\obj\Debug\net6.0\ref\Microshop.productapi.dll

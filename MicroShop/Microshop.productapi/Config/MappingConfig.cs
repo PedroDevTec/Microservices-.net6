@@ -1,5 +1,6 @@
 ﻿using AutoMapper;
 using Microshop.productapi.Data.ValueObjects;
+using Microshop.productapi.Model;
 
 namespace Microshop.productapi.Config
 {
@@ -10,8 +11,8 @@ namespace Microshop.productapi.Config
         {
             var mappingConfig = new MapperConfiguration(config =>
             {
-                config.CreateMap<ProductVO, Product>();
-                config.CreateMap<Product, ProductVO>();
+                config.CreateMap<ProductVO, Productc>();
+                config.CreateMap<Productc, ProductVO>();
             });
                 return mappingConfig;
 

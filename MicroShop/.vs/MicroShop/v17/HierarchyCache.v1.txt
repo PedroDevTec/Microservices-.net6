@@ -1,0 +1,314 @@
+﻿++Solução 'MicroShop' ‎(2 de 2 projetos)
+i:{00000000-0000-0000-0000-000000000000}:MicroShop.sln
+++Services
+i:{00000000-0000-0000-0000-000000000000}:Services
+++Microshop.productapi
+i:{b9f07807-ee0e-448d-ba18-9fbd16d8e6ba}:Microshop.productapi
+++Connected Services 
+i:{b099e1fb-08ba-4a27-adc5-377c603bcb7d}:>540
+i:{56551b19-d2cb-4811-b0ca-ec3d105143e8}:>541
+++Dependências
+i:{b099e1fb-08ba-4a27-adc5-377c603bcb7d}:>539
+i:{56551b19-d2cb-4811-b0ca-ec3d105143e8}:>538
+++Properties
+i:{b099e1fb-08ba-4a27-adc5-377c603bcb7d}:c:\users\abrasel nacional\desktop\microserviços\microservices-.net6 - arquitetura\microshop\microshop.productapi\properties\
+i:{56551b19-d2cb-4811-b0ca-ec3d105143e8}:c:\users\abrasel nacional\desktop\microserviços\microservices-.net6 - arquitetura\microshop\microshop.web\properties\
+++Config
+i:{b099e1fb-08ba-4a27-adc5-377c603bcb7d}:c:\users\abrasel nacional\desktop\microserviços\microservices-.net6 - arquitetura\microshop\microshop.productapi\config\
+++MappingConfig.cs
+i:{b099e1fb-08ba-4a27-adc5-377c603bcb7d}:c:\users\abrasel nacional\desktop\microserviços\microservices-.net6 - arquitetura\microshop\microshop.productapi\config\mappingconfig.cs
+++Product.cs
+++Controllers
+i:{b099e1fb-08ba-4a27-adc5-377c603bcb7d}:c:\users\abrasel nacional\desktop\microserviços\microservices-.net6 - arquitetura\microshop\microshop.productapi\controllers\
+i:{56551b19-d2cb-4811-b0ca-ec3d105143e8}:c:\users\abrasel nacional\desktop\microserviços\microservices-.net6 - arquitetura\microshop\microshop.web\controllers\
+++ProductController.cs
+i:{b099e1fb-08ba-4a27-adc5-377c603bcb7d}:c:\users\abrasel nacional\desktop\microserviços\microservices-.net6 - arquitetura\microshop\microshop.productapi\controllers\productcontroller.cs
+++Data
+i:{b099e1fb-08ba-4a27-adc5-377c603bcb7d}:c:\users\abrasel nacional\desktop\microserviços\microservices-.net6 - arquitetura\microshop\microshop.productapi\data\
+++ValueObjects
+i:{b099e1fb-08ba-4a27-adc5-377c603bcb7d}:c:\users\abrasel nacional\desktop\microserviços\microservices-.net6 - arquitetura\microshop\microshop.productapi\data\valueobjects\
+++ProductVO.cs
+i:{b099e1fb-08ba-4a27-adc5-377c603bcb7d}:c:\users\abrasel nacional\desktop\microserviços\microservices-.net6 - arquitetura\microshop\microshop.productapi\data\valueobjects\productvo.cs
+++Migrations
+i:{b099e1fb-08ba-4a27-adc5-377c603bcb7d}:c:\users\abrasel nacional\desktop\microserviços\microservices-.net6 - arquitetura\microshop\microshop.productapi\migrations\
+++Model
+i:{b099e1fb-08ba-4a27-adc5-377c603bcb7d}:c:\users\abrasel nacional\desktop\microserviços\microservices-.net6 - arquitetura\microshop\microshop.productapi\model\
+++Base
+i:{b099e1fb-08ba-4a27-adc5-377c603bcb7d}:c:\users\abrasel nacional\desktop\microserviços\microservices-.net6 - arquitetura\microshop\microshop.productapi\model\base\
+++BaseEntity.cs
+i:{b099e1fb-08ba-4a27-adc5-377c603bcb7d}:c:\users\abrasel nacional\desktop\microserviços\microservices-.net6 - arquitetura\microshop\microshop.productapi\model\base\baseentity.cs
+++Context
+i:{b099e1fb-08ba-4a27-adc5-377c603bcb7d}:c:\users\abrasel nacional\desktop\microserviços\microservices-.net6 - arquitetura\microshop\microshop.productapi\model\context\
+++Mysqlcontext.cs
+i:{b099e1fb-08ba-4a27-adc5-377c603bcb7d}:c:\users\abrasel nacional\desktop\microserviços\microservices-.net6 - arquitetura\microshop\microshop.productapi\model\context\mysqlcontext.cs
+++Productc.cs
+i:{b099e1fb-08ba-4a27-adc5-377c603bcb7d}:c:\users\abrasel nacional\desktop\microserviços\microservices-.net6 - arquitetura\microshop\microshop.productapi\model\productc.cs
+++Repository
+i:{b099e1fb-08ba-4a27-adc5-377c603bcb7d}:c:\users\abrasel nacional\desktop\microserviços\microservices-.net6 - arquitetura\microshop\microshop.productapi\repository\
+++IProductRepository.cs
+i:{b099e1fb-08ba-4a27-adc5-377c603bcb7d}:c:\users\abrasel nacional\desktop\microserviços\microservices-.net6 - arquitetura\microshop\microshop.productapi\repository\iproductrepository.cs
+++ProductRepository.cs
+i:{b099e1fb-08ba-4a27-adc5-377c603bcb7d}:c:\users\abrasel nacional\desktop\microserviços\microservices-.net6 - arquitetura\microshop\microshop.productapi\repository\productrepository.cs
+++appsettings.json
+i:{b099e1fb-08ba-4a27-adc5-377c603bcb7d}:c:\users\abrasel nacional\desktop\microserviços\microservices-.net6 - arquitetura\microshop\microshop.productapi\appsettings.json
+i:{56551b19-d2cb-4811-b0ca-ec3d105143e8}:c:\users\abrasel nacional\desktop\microserviços\microservices-.net6 - arquitetura\microshop\microshop.web\appsettings.json
+++Program.cs
+i:{b099e1fb-08ba-4a27-adc5-377c603bcb7d}:c:\users\abrasel nacional\desktop\microserviços\microservices-.net6 - arquitetura\microshop\microshop.productapi\program.cs
+i:{56551b19-d2cb-4811-b0ca-ec3d105143e8}:c:\users\abrasel nacional\desktop\microserviços\microservices-.net6 - arquitetura\microshop\microshop.web\program.cs
+++ProjectRepository.cs
+i:{b099e1fb-08ba-4a27-adc5-377c603bcb7d}:c:\users\abrasel nacional\desktop\microserviços\microservices-.net6 - arquitetura\microshop\microshop.productapi\projectrepository.cs
+++Startup.cs
+i:{b099e1fb-08ba-4a27-adc5-377c603bcb7d}:c:\users\abrasel nacional\desktop\microserviços\microservices-.net6 - arquitetura\microshop\microshop.productapi\startup.cs
+++Nenhuma dependência de serviço descoberta
+i:{b099e1fb-08ba-4a27-adc5-377c603bcb7d}:>542
+i:{56551b19-d2cb-4811-b0ca-ec3d105143e8}:>543
+++Analisadores
+i:{b099e1fb-08ba-4a27-adc5-377c603bcb7d}:analisadores
+i:{56551b19-d2cb-4811-b0ca-ec3d105143e8}:analisadores
+++Estruturas
+i:{b099e1fb-08ba-4a27-adc5-377c603bcb7d}:estruturas
+i:{56551b19-d2cb-4811-b0ca-ec3d105143e8}:estruturas
+++Pacotes
+i:{b099e1fb-08ba-4a27-adc5-377c603bcb7d}:pacotes
+++launchSettings.json
+i:{b099e1fb-08ba-4a27-adc5-377c603bcb7d}:c:\users\abrasel nacional\desktop\microserviços\microservices-.net6 - arquitetura\microshop\microshop.productapi\properties\launchsettings.json
+i:{56551b19-d2cb-4811-b0ca-ec3d105143e8}:c:\users\abrasel nacional\desktop\microserviços\microservices-.net6 - arquitetura\microshop\microshop.web\properties\launchsettings.json
+++20220923184057_addProductDataTableonDB.cs
+i:{b099e1fb-08ba-4a27-adc5-377c603bcb7d}:c:\users\abrasel nacional\desktop\microserviços\microservices-.net6 - arquitetura\microshop\microshop.productapi\migrations\20220923184057_addproductdatatableondb.cs
+++MysqlcontextModelSnapshot.cs
+i:{b099e1fb-08ba-4a27-adc5-377c603bcb7d}:c:\users\abrasel nacional\desktop\microserviços\microservices-.net6 - arquitetura\microshop\microshop.productapi\migrations\mysqlcontextmodelsnapshot.cs
+++appsettings.Development.json
+i:{b099e1fb-08ba-4a27-adc5-377c603bcb7d}:c:\users\abrasel nacional\desktop\microserviços\microservices-.net6 - arquitetura\microshop\microshop.productapi\appsettings.development.json
+i:{56551b19-d2cb-4811-b0ca-ec3d105143e8}:c:\users\abrasel nacional\desktop\microserviços\microservices-.net6 - arquitetura\microshop\microshop.web\appsettings.development.json
+++Microsoft.AspNetCore.Analyzers
+i:{b099e1fb-08ba-4a27-adc5-377c603bcb7d}:c:\program files\dotnet\sdk\6.0.400\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.analyzers.dll
+i:{56551b19-d2cb-4811-b0ca-ec3d105143e8}:c:\program files\dotnet\sdk\6.0.400\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.analyzers.dll
+++Microsoft.AspNetCore.App.Analyzers
+i:{b099e1fb-08ba-4a27-adc5-377c603bcb7d}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.8\analyzers\dotnet\cs\microsoft.aspnetcore.app.analyzers.dll
+i:{56551b19-d2cb-4811-b0ca-ec3d105143e8}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.8\analyzers\dotnet\cs\microsoft.aspnetcore.app.analyzers.dll
+++Microsoft.AspNetCore.App.CodeFixes
+i:{b099e1fb-08ba-4a27-adc5-377c603bcb7d}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.8\analyzers\dotnet\cs\microsoft.aspnetcore.app.codefixes.dll
+i:{56551b19-d2cb-4811-b0ca-ec3d105143e8}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.8\analyzers\dotnet\cs\microsoft.aspnetcore.app.codefixes.dll
+++Microsoft.AspNetCore.Components.Analyzers
+i:{b099e1fb-08ba-4a27-adc5-377c603bcb7d}:c:\program files\dotnet\sdk\6.0.400\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.components.analyzers.dll
+i:{56551b19-d2cb-4811-b0ca-ec3d105143e8}:c:\program files\dotnet\sdk\6.0.400\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.components.analyzers.dll
+++Microsoft.AspNetCore.Mvc.Analyzers
+i:{b099e1fb-08ba-4a27-adc5-377c603bcb7d}:c:\program files\dotnet\sdk\6.0.400\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.mvc.analyzers.dll
+i:{56551b19-d2cb-4811-b0ca-ec3d105143e8}:c:\program files\dotnet\sdk\6.0.400\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.mvc.analyzers.dll
+++Microsoft.AspNetCore.Razor.SourceGenerator.Tooling.Internal
+i:{b099e1fb-08ba-4a27-adc5-377c603bcb7d}:c:\program files\dotnet\sdk\6.0.400\sdks\microsoft.net.sdk.razor\source-generators\microsoft.aspnetcore.razor.sourcegenerator.tooling.internal.dll
+i:{56551b19-d2cb-4811-b0ca-ec3d105143e8}:c:\program files\dotnet\sdk\6.0.400\sdks\microsoft.net.sdk.razor\source-generators\microsoft.aspnetcore.razor.sourcegenerator.tooling.internal.dll
+++Microsoft.CodeAnalysis.CSharp.NetAnalyzers
+i:{b099e1fb-08ba-4a27-adc5-377c603bcb7d}:c:\program files\dotnet\sdk\6.0.400\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{56551b19-d2cb-4811-b0ca-ec3d105143e8}:c:\program files\dotnet\sdk\6.0.400\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+++Microsoft.CodeAnalysis.NetAnalyzers
+i:{b099e1fb-08ba-4a27-adc5-377c603bcb7d}:c:\program files\dotnet\sdk\6.0.400\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{56551b19-d2cb-4811-b0ca-ec3d105143e8}:c:\program files\dotnet\sdk\6.0.400\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+++Microsoft.EntityFrameworkCore.Analyzers
+i:{b099e1fb-08ba-4a27-adc5-377c603bcb7d}:c:\users\abrasel nacional\.nuget\packages\microsoft.entityframeworkcore.analyzers\6.0.1\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+++Microsoft.Extensions.Logging.Generators
+i:{b099e1fb-08ba-4a27-adc5-377c603bcb7d}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.8\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+i:{56551b19-d2cb-4811-b0ca-ec3d105143e8}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.8\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+++Microsoft.NET.Sdk.Razor.SourceGenerators
+i:{b099e1fb-08ba-4a27-adc5-377c603bcb7d}:c:\program files\dotnet\sdk\6.0.400\sdks\microsoft.net.sdk.razor\source-generators\microsoft.net.sdk.razor.sourcegenerators.dll
+i:{56551b19-d2cb-4811-b0ca-ec3d105143e8}:c:\program files\dotnet\sdk\6.0.400\sdks\microsoft.net.sdk.razor\source-generators\microsoft.net.sdk.razor.sourcegenerators.dll
+++System.Text.Json.SourceGeneration
+i:{b099e1fb-08ba-4a27-adc5-377c603bcb7d}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.8\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{56551b19-d2cb-4811-b0ca-ec3d105143e8}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.8\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+++Microsoft.AspNetCore.App
+i:{b099e1fb-08ba-4a27-adc5-377c603bcb7d}:c:\users\abrasel nacional\desktop\microserviços\microservices-.net6 - arquitetura\microshop\microshop.productapi\microsoft.aspnetcore.app
+i:{56551b19-d2cb-4811-b0ca-ec3d105143e8}:c:\users\abrasel nacional\desktop\microserviços\microservices-.net6 - arquitetura\microshop\microshop.web\microsoft.aspnetcore.app
+++Microsoft.NETCore.App
+i:{b099e1fb-08ba-4a27-adc5-377c603bcb7d}:c:\users\abrasel nacional\desktop\microserviços\microservices-.net6 - arquitetura\microshop\microshop.productapi\microsoft.netcore.app
+i:{56551b19-d2cb-4811-b0ca-ec3d105143e8}:c:\users\abrasel nacional\desktop\microserviços\microservices-.net6 - arquitetura\microshop\microshop.web\microsoft.netcore.app
+++AutoMapper (11.0.1)
+i:{b099e1fb-08ba-4a27-adc5-377c603bcb7d}:>558
+++AutoMapper.Extensions.Microsoft.DependencyInjection (11.0.0)
+i:{b099e1fb-08ba-4a27-adc5-377c603bcb7d}:>554
+++Microsoft.EntityFrameworkCore.Tools (6.0.1)
+i:{b099e1fb-08ba-4a27-adc5-377c603bcb7d}:>589
+++Pomelo.EntityFrameworkCore.MySql (6.0.1)
+i:{b099e1fb-08ba-4a27-adc5-377c603bcb7d}:>560
+++Swashbuckle.AspNetCore (6.4.0)
+i:{b099e1fb-08ba-4a27-adc5-377c603bcb7d}:>555
+++Swashbuckle.AspNetCore.Annotations (6.4.0)
+i:{b099e1fb-08ba-4a27-adc5-377c603bcb7d}:>556
+++Swashbuckle.AspNetCore.Swagger (6.4.0)
+i:{b099e1fb-08ba-4a27-adc5-377c603bcb7d}:>557
+++Swashbuckle.AspNetCore.SwaggerUI (6.4.0)
+i:{b099e1fb-08ba-4a27-adc5-377c603bcb7d}:>561
+++20220923184057_addProductDataTableonDB.Designer.cs
+i:{b099e1fb-08ba-4a27-adc5-377c603bcb7d}:c:\users\abrasel nacional\desktop\microserviços\microservices-.net6 - arquitetura\microshop\microshop.productapi\migrations\20220923184057_addproductdatatableondb.designer.cs
+++FrontEnd
+i:{00000000-0000-0000-0000-000000000000}:FrontEnd
+++MicroShop.web
+i:{bdd9a081-eee1-4f44-b072-8fd0cd046402}:MicroShop.web
+++wwwroot
+i:{56551b19-d2cb-4811-b0ca-ec3d105143e8}:c:\users\abrasel nacional\desktop\microserviços\microservices-.net6 - arquitetura\microshop\microshop.web\wwwroot\
+++Models
+i:{56551b19-d2cb-4811-b0ca-ec3d105143e8}:c:\users\abrasel nacional\desktop\microserviços\microservices-.net6 - arquitetura\microshop\microshop.web\models\
+++Views
+i:{56551b19-d2cb-4811-b0ca-ec3d105143e8}:c:\users\abrasel nacional\desktop\microserviços\microservices-.net6 - arquitetura\microshop\microshop.web\views\
+++css
+i:{56551b19-d2cb-4811-b0ca-ec3d105143e8}:c:\users\abrasel nacional\desktop\microserviços\microservices-.net6 - arquitetura\microshop\microshop.web\wwwroot\css\
+i:{56551b19-d2cb-4811-b0ca-ec3d105143e8}:c:\users\abrasel nacional\desktop\microserviços\microservices-.net6 - arquitetura\microshop\microshop.web\wwwroot\lib\bootstrap\dist\css\
+++js
+i:{56551b19-d2cb-4811-b0ca-ec3d105143e8}:c:\users\abrasel nacional\desktop\microserviços\microservices-.net6 - arquitetura\microshop\microshop.web\wwwroot\js\
+i:{56551b19-d2cb-4811-b0ca-ec3d105143e8}:c:\users\abrasel nacional\desktop\microserviços\microservices-.net6 - arquitetura\microshop\microshop.web\wwwroot\lib\bootstrap\dist\js\
+++lib
+i:{56551b19-d2cb-4811-b0ca-ec3d105143e8}:c:\users\abrasel nacional\desktop\microserviços\microservices-.net6 - arquitetura\microshop\microshop.web\wwwroot\lib\
+++favicon.ico
+i:{56551b19-d2cb-4811-b0ca-ec3d105143e8}:c:\users\abrasel nacional\desktop\microserviços\microservices-.net6 - arquitetura\microshop\microshop.web\wwwroot\favicon.ico
+++HomeController.cs
+i:{56551b19-d2cb-4811-b0ca-ec3d105143e8}:c:\users\abrasel nacional\desktop\microserviços\microservices-.net6 - arquitetura\microshop\microshop.web\controllers\homecontroller.cs
+++ErrorViewModel.cs
+i:{56551b19-d2cb-4811-b0ca-ec3d105143e8}:c:\users\abrasel nacional\desktop\microserviços\microservices-.net6 - arquitetura\microshop\microshop.web\models\errorviewmodel.cs
+++Home
+i:{56551b19-d2cb-4811-b0ca-ec3d105143e8}:c:\users\abrasel nacional\desktop\microserviços\microservices-.net6 - arquitetura\microshop\microshop.web\views\home\
+++Shared
+i:{56551b19-d2cb-4811-b0ca-ec3d105143e8}:c:\users\abrasel nacional\desktop\microserviços\microservices-.net6 - arquitetura\microshop\microshop.web\views\shared\
+++_ViewImports.cshtml
+i:{56551b19-d2cb-4811-b0ca-ec3d105143e8}:c:\users\abrasel nacional\desktop\microserviços\microservices-.net6 - arquitetura\microshop\microshop.web\views\_viewimports.cshtml
+++_ViewStart.cshtml
+i:{56551b19-d2cb-4811-b0ca-ec3d105143e8}:c:\users\abrasel nacional\desktop\microserviços\microservices-.net6 - arquitetura\microshop\microshop.web\views\_viewstart.cshtml
+++site.css
+i:{56551b19-d2cb-4811-b0ca-ec3d105143e8}:c:\users\abrasel nacional\desktop\microserviços\microservices-.net6 - arquitetura\microshop\microshop.web\wwwroot\css\site.css
+++site.js
+i:{56551b19-d2cb-4811-b0ca-ec3d105143e8}:c:\users\abrasel nacional\desktop\microserviços\microservices-.net6 - arquitetura\microshop\microshop.web\wwwroot\js\site.js
+++bootstrap
+i:{56551b19-d2cb-4811-b0ca-ec3d105143e8}:c:\users\abrasel nacional\desktop\microserviços\microservices-.net6 - arquitetura\microshop\microshop.web\wwwroot\lib\bootstrap\
+++jquery
+i:{56551b19-d2cb-4811-b0ca-ec3d105143e8}:c:\users\abrasel nacional\desktop\microserviços\microservices-.net6 - arquitetura\microshop\microshop.web\wwwroot\lib\jquery\
+++jquery-validation
+i:{56551b19-d2cb-4811-b0ca-ec3d105143e8}:c:\users\abrasel nacional\desktop\microserviços\microservices-.net6 - arquitetura\microshop\microshop.web\wwwroot\lib\jquery-validation\
+++jquery-validation-unobtrusive
+i:{56551b19-d2cb-4811-b0ca-ec3d105143e8}:c:\users\abrasel nacional\desktop\microserviços\microservices-.net6 - arquitetura\microshop\microshop.web\wwwroot\lib\jquery-validation-unobtrusive\
+++Index.cshtml
+i:{56551b19-d2cb-4811-b0ca-ec3d105143e8}:c:\users\abrasel nacional\desktop\microserviços\microservices-.net6 - arquitetura\microshop\microshop.web\views\home\index.cshtml
+++Privacy.cshtml
+i:{56551b19-d2cb-4811-b0ca-ec3d105143e8}:c:\users\abrasel nacional\desktop\microserviços\microservices-.net6 - arquitetura\microshop\microshop.web\views\home\privacy.cshtml
+++_Layout.cshtml
+i:{56551b19-d2cb-4811-b0ca-ec3d105143e8}:c:\users\abrasel nacional\desktop\microserviços\microservices-.net6 - arquitetura\microshop\microshop.web\views\shared\_layout.cshtml
+++_ValidationScriptsPartial.cshtml
+i:{56551b19-d2cb-4811-b0ca-ec3d105143e8}:c:\users\abrasel nacional\desktop\microserviços\microservices-.net6 - arquitetura\microshop\microshop.web\views\shared\_validationscriptspartial.cshtml
+++Error.cshtml
+i:{56551b19-d2cb-4811-b0ca-ec3d105143e8}:c:\users\abrasel nacional\desktop\microserviços\microservices-.net6 - arquitetura\microshop\microshop.web\views\shared\error.cshtml
+++dist
+i:{56551b19-d2cb-4811-b0ca-ec3d105143e8}:c:\users\abrasel nacional\desktop\microserviços\microservices-.net6 - arquitetura\microshop\microshop.web\wwwroot\lib\bootstrap\dist\
+i:{56551b19-d2cb-4811-b0ca-ec3d105143e8}:c:\users\abrasel nacional\desktop\microserviços\microservices-.net6 - arquitetura\microshop\microshop.web\wwwroot\lib\jquery\dist\
+i:{56551b19-d2cb-4811-b0ca-ec3d105143e8}:c:\users\abrasel nacional\desktop\microserviços\microservices-.net6 - arquitetura\microshop\microshop.web\wwwroot\lib\jquery-validation\dist\
+++LICENSE
+i:{56551b19-d2cb-4811-b0ca-ec3d105143e8}:c:\users\abrasel nacional\desktop\microserviços\microservices-.net6 - arquitetura\microshop\microshop.web\wwwroot\lib\bootstrap\license
+++LICENSE.txt
+i:{56551b19-d2cb-4811-b0ca-ec3d105143e8}:c:\users\abrasel nacional\desktop\microserviços\microservices-.net6 - arquitetura\microshop\microshop.web\wwwroot\lib\jquery\license.txt
+i:{56551b19-d2cb-4811-b0ca-ec3d105143e8}:c:\users\abrasel nacional\desktop\microserviços\microservices-.net6 - arquitetura\microshop\microshop.web\wwwroot\lib\jquery-validation-unobtrusive\license.txt
+++LICENSE.md
+i:{56551b19-d2cb-4811-b0ca-ec3d105143e8}:c:\users\abrasel nacional\desktop\microserviços\microservices-.net6 - arquitetura\microshop\microshop.web\wwwroot\lib\jquery-validation\license.md
+++jquery.validate.unobtrusive.js
+i:{56551b19-d2cb-4811-b0ca-ec3d105143e8}:c:\users\abrasel nacional\desktop\microserviços\microservices-.net6 - arquitetura\microshop\microshop.web\wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.js
+++_Layout.cshtml.css
+i:{56551b19-d2cb-4811-b0ca-ec3d105143e8}:c:\users\abrasel nacional\desktop\microserviços\microservices-.net6 - arquitetura\microshop\microshop.web\views\shared\_layout.cshtml.css
+++jquery.js
+i:{56551b19-d2cb-4811-b0ca-ec3d105143e8}:c:\users\abrasel nacional\desktop\microserviços\microservices-.net6 - arquitetura\microshop\microshop.web\wwwroot\lib\jquery\dist\jquery.js
+++additional-methods.js
+i:{56551b19-d2cb-4811-b0ca-ec3d105143e8}:c:\users\abrasel nacional\desktop\microserviços\microservices-.net6 - arquitetura\microshop\microshop.web\wwwroot\lib\jquery-validation\dist\additional-methods.js
+++jquery.validate.js
+i:{56551b19-d2cb-4811-b0ca-ec3d105143e8}:c:\users\abrasel nacional\desktop\microserviços\microservices-.net6 - arquitetura\microshop\microshop.web\wwwroot\lib\jquery-validation\dist\jquery.validate.js
+++jquery.validate.unobtrusive.min.js
+i:{56551b19-d2cb-4811-b0ca-ec3d105143e8}:c:\users\abrasel nacional\desktop\microserviços\microservices-.net6 - arquitetura\microshop\microshop.web\wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.min.js
+++bootstrap.css
+i:{56551b19-d2cb-4811-b0ca-ec3d105143e8}:c:\users\abrasel nacional\desktop\microserviços\microservices-.net6 - arquitetura\microshop\microshop.web\wwwroot\lib\bootstrap\dist\css\bootstrap.css
+++bootstrap-grid.css
+i:{56551b19-d2cb-4811-b0ca-ec3d105143e8}:c:\users\abrasel nacional\desktop\microserviços\microservices-.net6 - arquitetura\microshop\microshop.web\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
+++bootstrap-reboot.css
+i:{56551b19-d2cb-4811-b0ca-ec3d105143e8}:c:\users\abrasel nacional\desktop\microserviços\microservices-.net6 - arquitetura\microshop\microshop.web\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css
+++bootstrap-utilities.css
+i:{56551b19-d2cb-4811-b0ca-ec3d105143e8}:c:\users\abrasel nacional\desktop\microserviços\microservices-.net6 - arquitetura\microshop\microshop.web\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css
+++bootstrap.js
+i:{56551b19-d2cb-4811-b0ca-ec3d105143e8}:c:\users\abrasel nacional\desktop\microserviços\microservices-.net6 - arquitetura\microshop\microshop.web\wwwroot\lib\bootstrap\dist\js\bootstrap.js
+++jquery.min.js
+i:{56551b19-d2cb-4811-b0ca-ec3d105143e8}:c:\users\abrasel nacional\desktop\microserviços\microservices-.net6 - arquitetura\microshop\microshop.web\wwwroot\lib\jquery\dist\jquery.min.js
+++additional-methods.min.js
+i:{56551b19-d2cb-4811-b0ca-ec3d105143e8}:c:\users\abrasel nacional\desktop\microserviços\microservices-.net6 - arquitetura\microshop\microshop.web\wwwroot\lib\jquery-validation\dist\additional-methods.min.js
+++jquery.validate.min.js
+i:{56551b19-d2cb-4811-b0ca-ec3d105143e8}:c:\users\abrasel nacional\desktop\microserviços\microservices-.net6 - arquitetura\microshop\microshop.web\wwwroot\lib\jquery-validation\dist\jquery.validate.min.js
+++bootstrap.css.map
+i:{56551b19-d2cb-4811-b0ca-ec3d105143e8}:c:\users\abrasel nacional\desktop\microserviços\microservices-.net6 - arquitetura\microshop\microshop.web\wwwroot\lib\bootstrap\dist\css\bootstrap.css.map
+++bootstrap.min.css
+i:{56551b19-d2cb-4811-b0ca-ec3d105143e8}:c:\users\abrasel nacional\desktop\microserviços\microservices-.net6 - arquitetura\microshop\microshop.web\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css
+++bootstrap.rtl.css
+i:{56551b19-d2cb-4811-b0ca-ec3d105143e8}:c:\users\abrasel nacional\desktop\microserviços\microservices-.net6 - arquitetura\microshop\microshop.web\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css
+++bootstrap-grid.css.map
+i:{56551b19-d2cb-4811-b0ca-ec3d105143e8}:c:\users\abrasel nacional\desktop\microserviços\microservices-.net6 - arquitetura\microshop\microshop.web\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map
+++bootstrap-grid.min.css
+i:{56551b19-d2cb-4811-b0ca-ec3d105143e8}:c:\users\abrasel nacional\desktop\microserviços\microservices-.net6 - arquitetura\microshop\microshop.web\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css
+++bootstrap-grid.rtl.css
+i:{56551b19-d2cb-4811-b0ca-ec3d105143e8}:c:\users\abrasel nacional\desktop\microserviços\microservices-.net6 - arquitetura\microshop\microshop.web\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css
+++bootstrap-reboot.css.map
+i:{56551b19-d2cb-4811-b0ca-ec3d105143e8}:c:\users\abrasel nacional\desktop\microserviços\microservices-.net6 - arquitetura\microshop\microshop.web\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css.map
+++bootstrap-reboot.min.css
+i:{56551b19-d2cb-4811-b0ca-ec3d105143e8}:c:\users\abrasel nacional\desktop\microserviços\microservices-.net6 - arquitetura\microshop\microshop.web\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css
+++bootstrap-reboot.rtl.css
+i:{56551b19-d2cb-4811-b0ca-ec3d105143e8}:c:\users\abrasel nacional\desktop\microserviços\microservices-.net6 - arquitetura\microshop\microshop.web\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css
+++bootstrap-utilities.css.map
+i:{56551b19-d2cb-4811-b0ca-ec3d105143e8}:c:\users\abrasel nacional\desktop\microserviços\microservices-.net6 - arquitetura\microshop\microshop.web\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css.map
+++bootstrap-utilities.min.css
+i:{56551b19-d2cb-4811-b0ca-ec3d105143e8}:c:\users\abrasel nacional\desktop\microserviços\microservices-.net6 - arquitetura\microshop\microshop.web\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css
+++bootstrap-utilities.rtl.css
+i:{56551b19-d2cb-4811-b0ca-ec3d105143e8}:c:\users\abrasel nacional\desktop\microserviços\microservices-.net6 - arquitetura\microshop\microshop.web\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css
+++bootstrap.bundle.js
+i:{56551b19-d2cb-4811-b0ca-ec3d105143e8}:c:\users\abrasel nacional\desktop\microserviços\microservices-.net6 - arquitetura\microshop\microshop.web\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js
+++bootstrap.esm.js
+i:{56551b19-d2cb-4811-b0ca-ec3d105143e8}:c:\users\abrasel nacional\desktop\microserviços\microservices-.net6 - arquitetura\microshop\microshop.web\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js
+++bootstrap.js.map
+i:{56551b19-d2cb-4811-b0ca-ec3d105143e8}:c:\users\abrasel nacional\desktop\microserviços\microservices-.net6 - arquitetura\microshop\microshop.web\wwwroot\lib\bootstrap\dist\js\bootstrap.js.map
+++bootstrap.min.js
+i:{56551b19-d2cb-4811-b0ca-ec3d105143e8}:c:\users\abrasel nacional\desktop\microserviços\microservices-.net6 - arquitetura\microshop\microshop.web\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js
+++jquery.min.map
+i:{56551b19-d2cb-4811-b0ca-ec3d105143e8}:c:\users\abrasel nacional\desktop\microserviços\microservices-.net6 - arquitetura\microshop\microshop.web\wwwroot\lib\jquery\dist\jquery.min.map
+++bootstrap.min.css.map
+i:{56551b19-d2cb-4811-b0ca-ec3d105143e8}:c:\users\abrasel nacional\desktop\microserviços\microservices-.net6 - arquitetura\microshop\microshop.web\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css.map
+++bootstrap.rtl.css.map
+i:{56551b19-d2cb-4811-b0ca-ec3d105143e8}:c:\users\abrasel nacional\desktop\microserviços\microservices-.net6 - arquitetura\microshop\microshop.web\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css.map
+++bootstrap.rtl.min.css
+i:{56551b19-d2cb-4811-b0ca-ec3d105143e8}:c:\users\abrasel nacional\desktop\microserviços\microservices-.net6 - arquitetura\microshop\microshop.web\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css
+++bootstrap-grid.min.css.map
+i:{56551b19-d2cb-4811-b0ca-ec3d105143e8}:c:\users\abrasel nacional\desktop\microserviços\microservices-.net6 - arquitetura\microshop\microshop.web\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css.map
+++bootstrap-grid.rtl.css.map
+i:{56551b19-d2cb-4811-b0ca-ec3d105143e8}:c:\users\abrasel nacional\desktop\microserviços\microservices-.net6 - arquitetura\microshop\microshop.web\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css.map
+++bootstrap-grid.rtl.min.css
+i:{56551b19-d2cb-4811-b0ca-ec3d105143e8}:c:\users\abrasel nacional\desktop\microserviços\microservices-.net6 - arquitetura\microshop\microshop.web\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css
+++bootstrap-reboot.min.css.map
+i:{56551b19-d2cb-4811-b0ca-ec3d105143e8}:c:\users\abrasel nacional\desktop\microserviços\microservices-.net6 - arquitetura\microshop\microshop.web\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css.map
+++bootstrap-reboot.rtl.css.map
+i:{56551b19-d2cb-4811-b0ca-ec3d105143e8}:c:\users\abrasel nacional\desktop\microserviços\microservices-.net6 - arquitetura\microshop\microshop.web\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css.map
+++bootstrap-reboot.rtl.min.css
+i:{56551b19-d2cb-4811-b0ca-ec3d105143e8}:c:\users\abrasel nacional\desktop\microserviços\microservices-.net6 - arquitetura\microshop\microshop.web\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css
+++bootstrap-utilities.min.css.map
+i:{56551b19-d2cb-4811-b0ca-ec3d105143e8}:c:\users\abrasel nacional\desktop\microserviços\microservices-.net6 - arquitetura\microshop\microshop.web\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css.map
+++bootstrap-utilities.rtl.css.map
+i:{56551b19-d2cb-4811-b0ca-ec3d105143e8}:c:\users\abrasel nacional\desktop\microserviços\microservices-.net6 - arquitetura\microshop\microshop.web\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css.map
+++bootstrap-utilities.rtl.min.css
+i:{56551b19-d2cb-4811-b0ca-ec3d105143e8}:c:\users\abrasel nacional\desktop\microserviços\microservices-.net6 - arquitetura\microshop\microshop.web\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css
+++bootstrap.bundle.js.map
+i:{56551b19-d2cb-4811-b0ca-ec3d105143e8}:c:\users\abrasel nacional\desktop\microserviços\microservices-.net6 - arquitetura\microshop\microshop.web\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js.map
+++bootstrap.bundle.min.js
+i:{56551b19-d2cb-4811-b0ca-ec3d105143e8}:c:\users\abrasel nacional\desktop\microserviços\microservices-.net6 - arquitetura\microshop\microshop.web\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js
+++bootstrap.esm.js.map
+i:{56551b19-d2cb-4811-b0ca-ec3d105143e8}:c:\users\abrasel nacional\desktop\microserviços\microservices-.net6 - arquitetura\microshop\microshop.web\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js.map
+++bootstrap.esm.min.js
+i:{56551b19-d2cb-4811-b0ca-ec3d105143e8}:c:\users\abrasel nacional\desktop\microserviços\microservices-.net6 - arquitetura\microshop\microshop.web\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js
+++bootstrap.min.js.map
+i:{56551b19-d2cb-4811-b0ca-ec3d105143e8}:c:\users\abrasel nacional\desktop\microserviços\microservices-.net6 - arquitetura\microshop\microshop.web\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js.map
+++bootstrap.rtl.min.css.map
+i:{56551b19-d2cb-4811-b0ca-ec3d105143e8}:c:\users\abrasel nacional\desktop\microserviços\microservices-.net6 - arquitetura\microshop\microshop.web\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css.map
+++bootstrap-grid.rtl.min.css.map
+i:{56551b19-d2cb-4811-b0ca-ec3d105143e8}:c:\users\abrasel nacional\desktop\microserviços\microservices-.net6 - arquitetura\microshop\microshop.web\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css.map
+++bootstrap-reboot.rtl.min.css.map
+i:{56551b19-d2cb-4811-b0ca-ec3d105143e8}:c:\users\abrasel nacional\desktop\microserviços\microservices-.net6 - arquitetura\microshop\microshop.web\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css.map
+++bootstrap-utilities.rtl.min.css.map
+i:{56551b19-d2cb-4811-b0ca-ec3d105143e8}:c:\users\abrasel nacional\desktop\microserviços\microservices-.net6 - arquitetura\microshop\microshop.web\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css.map
+++bootstrap.bundle.min.js.map
+i:{56551b19-d2cb-4811-b0ca-ec3d105143e8}:c:\users\abrasel nacional\desktop\microserviços\microservices-.net6 - arquitetura\microshop\microshop.web\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js.map
+++bootstrap.esm.min.js.map
+i:{56551b19-d2cb-4811-b0ca-ec3d105143e8}:c:\users\abrasel nacional\desktop\microserviços\microservices-.net6 - arquitetura\microshop\microshop.web\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js.map
