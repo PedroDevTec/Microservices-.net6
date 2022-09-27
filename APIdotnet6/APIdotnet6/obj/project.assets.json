@@ -213,11 +213,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ABRASEL NACIONAL\\Desktop\\Microserviços\\Microservices-.net6\\APIdotnet6\\APIdotnet6\\APIdotnet6.csproj",
+      "projectUniqueName": "C:\\Users\\ABRASEL NACIONAL\\Desktop\\Microserviços\\Microservices-.net6 - arquitetura\\APIdotnet6\\APIdotnet6\\APIdotnet6.csproj",
       "projectName": "APIdotnet6",
-      "projectPath": "C:\\Users\\ABRASEL NACIONAL\\Desktop\\Microserviços\\Microservices-.net6\\APIdotnet6\\APIdotnet6\\APIdotnet6.csproj",
+      "projectPath": "C:\\Users\\ABRASEL NACIONAL\\Desktop\\Microserviços\\Microservices-.net6 - arquitetura\\APIdotnet6\\APIdotnet6\\APIdotnet6.csproj",
       "packagesPath": "C:\\Users\\ABRASEL NACIONAL\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ABRASEL NACIONAL\\Desktop\\Microserviços\\Microservices-.net6\\APIdotnet6\\APIdotnet6\\obj\\",
+      "outputPath": "C:\\Users\\ABRASEL NACIONAL\\Desktop\\Microserviços\\Microservices-.net6 - arquitetura\\APIdotnet6\\APIdotnet6\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ABRASEL NACIONAL\\AppData\\Roaming\\NuGet\\NuGet.Config",
